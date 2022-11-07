@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfoanew"]=self["webpackChunkfoanew"]||[]).push([[443],{9260:function(n,a,e){e.r(a),e.d(a,{default:function(){return l}});var u=e(3396);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page ",-1),s=[r];function c(n,a){return(0,u.wg)(),(0,u.iD)("div",t,s)}var o=e(89);const f={},i=(0,o.Z)(f,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.bbc78cf3.js.map
